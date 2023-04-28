@@ -1,0 +1,10 @@
+telegram.ext (python-telegram-bot[ext])
+apimoex
+pandas
+numpy
+requests
+matplotlib
+logging
+Новейшие версии
+python 3.8
+PATH!!!!!!!!!!!
